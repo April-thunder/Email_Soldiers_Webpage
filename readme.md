@@ -11,7 +11,7 @@ Exercise to improve Layout Building skills
 
 ## Demo
 
-Click the link to see the page 
+Click the link to see the page https://april-thunder.github.io/Email_Soldiers_Webpage/ 
 
 
 
