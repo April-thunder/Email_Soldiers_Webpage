@@ -1,0 +1,142 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat';
+	text-decoration: none;
+    box-sizing: border-box;
+}
+
+.fixed-container {
+	margin: 0 auto;
+	padding: 0 20px;
+    max-width: 640px;
+}
+
+.main-section-container {
+    margin: 29px auto 0 auto;
+	padding: 51px 20px 49px 20px;
+    max-width: 700px;
+    background: #F4F5F7;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    padding: 28px 0 0 20px;
+    color: #F95A2C;
+}
+
+.main-title {
+    font-size: 26px;
+    line-height: 35px;
+    letter-spacing: 0.5px;
+    padding: 22px 0 29px 0;
+}
+
+.main-section-block {display: flex;}
+
+.btn {
+    padding: 17px 0px;
+    font-weight: bold;
+    width: 228px;
+    border-radius: 8px;
+    background: #F95A2C;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.btn:hover {background: #d15b3b;}
+
+.greeting {
+    padding: 40px 0 19px 0;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.article-section-text {
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+    line-height: 150%;
+    letter-spacing: 0.01px;
+    padding-bottom: 45px;
+}
+
+.button-wrapper {
+    max-width: 470px;
+    border-bottom: 1px solid #D9DBDD;
+    margin: 0 auto 50px auto;
+}
+
+.bold-text {font-weight: 700;}
+
+.article-form {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 49px;
+}
+
+.final-section-wrapper {
+    border: 1px solid #D9DBDD;
+    border-radius: 8px;
+    padding: 30px 0 38px 0;
+}
+
+.text-wrapper {
+    max-width: 310px;
+    margin: 0 auto;
+}
+
+.final-section-text {padding-bottom: 27px;}
+
+.middle-text {
+    text-align: center;
+    padding-bottom: 22px;
+}
+
+.final-section-btn-block {
+   display: flex;
+    justify-content: center;
+}
+
+.btn__white {
+    color: #F95A2C;
+    background: #fff;
+    border: 1px solid #F95A2C;
+    margin-left: 17px;
+    padding: 16px 0;
+}
+
+.btn__white:hover {background: rgb(243, 239, 239);}
+
+.footer {
+    margin: 50px auto 0 auto;
+	padding: 0 20px 50px 20px;
+    max-width: 800px;
+    background: #F4F5F7;
+}
+
+.logo-footer {
+    font-size: 24px;
+    padding: 43px 0 25px 3px;
+    color: #9B9B9B;
+}
+
+.footer-text, .footer-link {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #AEAFB1;
+    padding-left: 3px;
+}
+
+.unsubscribe {padding: 8px 0 18px 3px;}
+
+.footer-link {text-decoration-line: underline;}
